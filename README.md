@@ -66,14 +66,7 @@
     src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Free-File-Download.png" 
 />
 <br>
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsmilena&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=xsmilena&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
 
 ## 🐍 Contribuições
 
